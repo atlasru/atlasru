@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="210" viewBox="0 0 390 210">
+<style>
+  .bg { fill:#0d1117; }
+  .border { fill:none; stroke:#30363d; stroke-width:1; }
+  .title { fill:#ff3030; font:600 16px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace; }
+  .label { fill:#8b949e; font:12px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace; }
+  .value { fill:#e6edf3; font:600 20px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace; }
+  .small { fill:#c9d1d9; font:12px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace; }
+</style>
+<rect class="bg" x="0.5" y="0.5" width="389" height="209" rx="8"/>
+<rect class="border" x="0.5" y="0.5" width="389" height="209" rx="8"/>
+<text class="title" x="22" y="30">&gt; top languages</text><text class="small" x="22" y="68">Kotlin</text><rect x="128" y="58" width="225" height="10" rx="5" fill="#21262d"/><rect x="128" y="58" width="104" height="10" rx="5" fill="#ff3030" opacity="0.71"/><text class="label" x="360" y="68" text-anchor="end">46.4%</text><text class="small" x="22" y="91">JavaScript</text><rect x="128" y="81" width="225" height="10" rx="5" fill="#21262d"/><rect x="128" y="81" width="41" height="10" rx="5" fill="#ff3030" opacity="0.55"/><text class="label" x="360" y="91" text-anchor="end">18.4%</text><text class="small" x="22" y="114">HTML</text><rect x="128" y="104" width="225" height="10" rx="5" fill="#21262d"/><rect x="128" y="104" width="35" height="10" rx="5" fill="#ff3030" opacity="0.54"/><text class="label" x="360" y="114" text-anchor="end">15.9%</text><text class="small" x="22" y="137">Rust</text><rect x="128" y="127" width="225" height="10" rx="5" fill="#21262d"/><rect x="128" y="127" width="17" height="10" rx="5" fill="#ff3030" opacity="0.49"/><text class="label" x="360" y="137" text-anchor="end">7.8%</text><text class="small" x="22" y="160">Python</text><rect x="128" y="150" width="225" height="10" rx="5" fill="#21262d"/><rect x="128" y="150" width="14" height="10" rx="5" fill="#ff3030" opacity="0.49"/><text class="label" x="360" y="160" text-anchor="end">6.6%</text><text class="small" x="22" y="183">Go</text><rect x="128" y="173" width="225" height="10" rx="5" fill="#21262d"/><rect x="128" y="173" width="10" height="10" rx="5" fill="#ff3030" opacity="0.48"/><text class="label" x="360" y="183" text-anchor="end">4.9%</text><text class="label" x="22" y="190">calculated from non-fork public repositories</text>
+</svg>
