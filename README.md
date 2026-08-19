@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://atlas.is-a.dev">website</a> ·
-  <a href="https://github.com/atlasru">github</a>
+  <a href="https://t.me/atlas_osint">telegram</a>
 </p>
 
 ---
@@ -61,7 +61,7 @@ FastAPI       Compose       Android
 <td width="50%" valign="top">
 
 #### [`dot.`](https://github.com/atlasru/dot)
-Minimal VLESS client for Android with an AMOLED-first interface, Xray-core backend and an interactive node map.
+Minimal VLESS client for Android and Windows with an AMOLED-first interface, Xray-core backend and an interactive node map.
 
 `Kotlin` · `Jetpack Compose` · `Xray-core`
 
