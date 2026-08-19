@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.weserv.nl/?url=static.zerochan.net%2FK-ON%2521.full.369165.jpg&w=1500&h=500&fit=cover&position=top&output=webp" width="100%" alt="K-ON banner" />
+  <img src="./assets/banner.jpg" width="100%" alt="K-ON banner" />
 </p>
 
 <h1 align="center">atlas<span style="color:#ff2a2a">.</span></h1>
