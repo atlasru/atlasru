@@ -30,12 +30,12 @@ jobs:
 
       - name: Commit generated cards
         run: |
-          if git diff --quiet -- assets/stats.svg assets/languages.svg; then
-            echo "No changes"
-            exit 0
-          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/stats.svg assets/languages.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
           git commit -m "Update profile stats"
           git push
