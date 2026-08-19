@@ -4,6 +4,13 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "17 3 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/scripts/profile_stats.py"
+      - ".github/workflows/profile-stats.yml"
 
 permissions:
   contents: write
