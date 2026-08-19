@@ -144,8 +144,8 @@ atlas@localhost:~$ status
 ### `> activity`
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=atlasru&show_icons=true&hide_border=true&theme=transparent&title_color=ff3030&icon_color=ff3030&text_color=9f9f9f" alt="GitHub stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlasru&layout=compact&hide_border=true&theme=transparent&title_color=ff3030&text_color=9f9f9f" alt="Top languages" />
+  <img height="195" src="./assets/stats.svg" alt="GitHub stats" />
+  <img height="210" src="./assets/languages.svg" alt="Top languages" />
 </p>
 
 ---
