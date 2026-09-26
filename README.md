@@ -96,10 +96,10 @@ Desktop utility project focused on practical local tooling and productivity.
 <tr>
 <td width="50%" valign="top">
 
-#### [`XrayCommander`](https://github.com/atlasru/XrayCommander)
-Tooling around Xray/Xray-core configuration, proxy management and networking workflows.
+#### [`Prism`](https://github.com/atlasru/prism)
+DDNet-based Windows client focused on custom visuals, quality-of-life features and a modern minimal interface.
 
-`Python` · `Xray-core`
+`C++` · `DDNet` · `Windows`
 
 </td>
 <td width="50%" valign="top">
