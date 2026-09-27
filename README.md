@@ -78,10 +78,10 @@ Experimental real-time computer-vision scanner and target tracker running locall
 <tr>
 <td width="50%" valign="top">
 
-#### [`point.`](https://github.com/atlasru/point.)
-Investigation workspace for OSINT/GEOINT research, graph-based notes, evidence and export workflows.
+#### [`LinkScope`](https://github.com/atlasru/linkscope)
+Local-first desktop OSINT link-analysis workspace for investigating relationships across large graphs.
 
-`TypeScript` · `React` · `Tauri`
+`Rust` · `Tauri` · `TypeScript`
 
 </td>
 <td width="50%" valign="top">
